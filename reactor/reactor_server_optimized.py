@@ -1,5 +1,6 @@
 # Echo server program
 # Based on https://docs.python.org/3/library/selectors.html#examples
+# and https://www.dre.vanderbilt.edu/~schmidt/PDF/reactor-siemens.pdf
 
 import selectors
 import socket
